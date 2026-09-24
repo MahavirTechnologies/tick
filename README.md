@@ -6,6 +6,10 @@
 
 It is NOT a full productivity platform. It is an extremely small MVP designed to make task capture and completion faster than opening another application or leaving the terminal.
 
+<p align="center">
+  <img src="./TickScreenshot.png" alt="Tick CLI in action" width="100%" />
+</p>
+
 ---
 
 ## 1. What Tick Is
